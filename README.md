@@ -1,58 +1,64 @@
-<h1 align="center">Merhaba 👋, ben Fikret Arıcı</h1>
-<h3 align="center"></h3>
+<h1 align="center">Hi, I'm Fikret Arıcı</h1>
+<h3 align="center">Software Developer | Artificial Intelligence Researcher</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fikret-arici&label=Ziyaretçi&color=blueviolet&style=flat-square" alt="profil görüntülenme sayacı" />
+  <img src="https://komarev.com/ghpvc/?username=fikret-arici&label=Profile%20Views&color=blueviolet&style=flat-square" alt="fikret-arici" />
 </p>
 
 ---
 
-🧩 **Şu an neyle uğraşıyorum?**
-- 🧠 AI destekli eğitim platformu [Academico](https://github.com/Fikret-Arici/academico) üzerinde çalışıyorum.
-- 🎯 Gelişmiş WPF + EmguCV tabanlı görüntü işleme projeleri geliştiriyorum.
-- 🛠️ Yazılıma kattığım her şeyin arkasında ya bol kahve var, ya da kedim.
+## 🔬 About Me
 
-🌱 **Şu anda öğreniyorum:**
-- `WPF` + `XAML` + `MVVM`
-- `EmguCV`, `ASP.NET`, `Microservices`
-- Biraz da sabırlı olmayı. (CI/CD sistemleriyle uğraşanlar anlar.)
+I’m Fikret, a Computer Engineering student at Gazi University.  
+My main focus is on **artificial intelligence**, especially in the areas of **computer vision**, **deep learning**, and **AI applications in education**.
 
-📫 **Bana ulaşmak istersen:**
-- ✉️ fikretarici.dev [@] gmail [.] com
-- 🐙 GitHub DM veya LinkedIn kapım açık
+- 📌 I develop AI-powered applications and tools for real-world use.
+- 🧠 I actively work on image analysis, model training, and transfer learning.
+- 🤝 I value academic integrity, responsible AI, and open-source collaboration.
 
 ---
 
-## 💻 Kullandığım Teknolojiler
+## 🌱 Currently Exploring
+
+- `Deep Learning`, `Computer Vision`, `Transfer Learning`, `ONNX`
+- `WPF`, `EmguCV`, `ASP.NET`, `Microservices`
+- `PyTorch`, `TensorFlow`, `C#`, `TypeScript`
+
+---
+
+## 📂 Highlighted Projects
+
+- 🎓 [Academico](https://github.com/Fikret-Arici/academico) – An AI-based education and coaching platform  
+- 🧠 WPF + EmguCV tools for advanced image analysis  
+- 🧪 Neural networks built for Kaggle & Teknofest competitions  
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,csharp,python,dotnet,mysql,git,github,vscode,figma,emgucv" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fikret-arici&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fikret-arici&theme=default" />
 </p>
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 🛠️ Tools & Technologies
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fikret-arici&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fikret-arici&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=python,csharp,ts,react,pytorch,tensorflow,dotnet,mysql,git,github,vscode,figma,emgucv" />
 </p>
 
 ---
 
-## 🏆 Rozet Koleksiyonum
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fikret-arici&theme=matrix&margin-w=10&margin-h=15" />
-</p>
+## 📫 Contact
 
----
-
-## ✨ Küçük Bilgiler
-- 😼 Kediyle kod yazınca `null` pointer yerine `meow` hatası alıyorsun.
-- 🔄 Arada `git reset --hard` hayatımdaki kararları da etkiliyor.
-- 🧪 Deneysel projelerimi görmekten çekinme, bazıları çalışıyor 😅
+- Email: `fikretarici.dev [@] gmail.com`
+- LinkedIn: [linkedin.com/in/fikret-arici](https://linkedin.com/in/fikret-arici)
+- GitHub Issues or Discussions are welcome for collaboration inquiries.
 
 ---
 
 <p align="center">
-  <b>“Yapay zeka geleceği yazacaksa, ben o satırda olmak istiyorum.”</b><br/>
-  <i>– Fikret Arıcı</i>
+  <strong>"Artificial intelligence is transforming the future — and I aim to contribute meaningfully to that change."</strong><br/>
 </p>
