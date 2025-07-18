@@ -46,8 +46,13 @@ My main focus is on **artificial intelligence**, especially in the areas of **co
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,csharp,ts,react,pytorch,tensorflow,dotnet,mysql,git,github,vscode,figma,emgucv" />
+  <img src="https://skillicons.dev/icons?i=python,csharp,ts,react,dotnet,vscode,git,github,figma" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=wpf,docker,linux,bash,arduino,firebase,postgres,kubernetes" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,redux,mysql,html,css" />
 </p>
+
 
 ---
 
