@@ -58,8 +58,8 @@ My main focus is on **artificial intelligence**, especially in the areas of **co
 
 ## 📫 Contact
 
-- Email: `fikretarici.dev [@] gmail.com`
-- LinkedIn: [linkedin.com/in/fikret-arici](https://linkedin.com/in/fikret-arici)
+- Email: `fikretarici35@gmail.com`
+- LinkedIn: [linkedin.com/in/fikret-arici]([https://linkedin.com/in/fikret-arici](https://www.linkedin.com/in/fikret-arici-a9a08b256/))
 - GitHub Issues or Discussions are welcome for collaboration inquiries.
 
 ---
