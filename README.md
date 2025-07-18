@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Fikret Arıcı</h1>
-<h3 align="center">🚀 AI meraklısı • 🧠 Yazılımla kafayı bozmuş • 🐾 Kedi destekli geliştirici</h3>
+<h3 align="center"></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fikret-arici&label=Ziyaretçi&color=blueviolet&style=flat-square" alt="profil görüntülenme sayacı" />
