@@ -43,15 +43,111 @@ My main focus is on **artificial intelligence**, especially in the areas of **co
 
 ---
 
-## 🛠️ Tools & Technologies
+<h3 align="left">🛠️ Tools & Technologies</h3>
+<p align="left">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,csharp,ts,react,dotnet,vscode,git,github,figma" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=wpf,docker,linux,bash,arduino,firebase,postgres,kubernetes" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,redux,mysql,html,css" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
+  </a>
+  
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=csharp" alt="csharp" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+  </a>
+
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=wpf" alt="wpf" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/>
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/>
+  </a>
+
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/>
+  </a>
+
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
+  </a>
+
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/>
+  </a>
+
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
+  </a>
+
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
+  </a>
+
 </p>
+
 
 
 ---
