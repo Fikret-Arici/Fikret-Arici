@@ -1,165 +1,190 @@
-<h1 align="center">Hi, I'm Fikret Arıcı</h1>
-<h3 align="center">Software Developer | Artificial Intelligence Researcher</h3>
+<h1 align="center">Fikret Arıcı</h1>
+
+<h3 align="center">
+Data & AI Enthusiast • Software Developer • Building Real-World Systems
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fikret-arici&label=Profile%20Views&color=blueviolet&style=flat-square" alt="fikret-arici" />
+  <img src="https://komarev.com/ghpvc/?username=fikret-arici&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Fikret-Arici">
+    <img src="https://img.shields.io/github/followers/Fikret-Arici?label=Followers&style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fikret-arici-a9a08b256/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fikret%20Arıcı-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
-## 🔬 About Me
+# 🚀 About Me
 
-I’m Fikret, a Computer Engineering student at Gazi University.  
-My main focus is on **artificial intelligence**, especially in the areas of **computer vision**, **deep learning**, and **AI applications in education**.
+Hi! I'm **Fikret Arıcı**, a Computer Engineering student at **Gazi University**.
 
-- 📌 I develop AI-powered applications and tools for real-world use.
-- 🧠 I actively work on image analysis, model training, and transfer learning.
-- 🤝 I value academic integrity, responsible AI, and open-source collaboration.
+I build software focused on:
 
----
+- 📊 **Data Analysis & Data-Driven Systems**
+- 🤖 **Artificial Intelligence & NLP**
+- 📱 **Mobile Applications**
+- 🖥️ **Desktop Applications**
+- 👁️ **Computer Vision**
 
-## 🌱 Currently Exploring
+I enjoy transforming raw data into meaningful systems and building products that solve real-world problems.
 
-- `Deep Learning`, `Computer Vision`, `Transfer Learning`, `ONNX`
-- `WPF`, `EmguCV`, `ASP.NET`, `Microservices`
-- `PyTorch`, `TensorFlow`, `C#`, `TypeScript`
+Currently, I’m especially interested in:
 
----
-
-## 📂 Highlighted Projects
-
-- 🎓 [Academico](https://github.com/Fikret-Arici/academico) – An AI-based education and coaching platform  
-- 🧠 WPF + EmguCV tools for advanced image analysis  
-- 🧪 Neural networks built for Kaggle & Teknofest competitions  
+- Data Management
+- AI-powered applications
+- User analytics & performance tracking
+- NLP systems
+- Computer Vision
+- Mobile product development
 
 ---
 
-## 📈 GitHub Stats
+# 🧠 Experience Highlights
+
+## 🔬 Nanomanyetik Scientific Instruments
+**Software & R\&D Intern**
+
+- Developed WPF and EmguCV based desktop applications
+- Worked on technical data processing and calibration systems
+- Contributed to Stage Controller & Image Analyzer projects
+- Built measurement-oriented software systems
+
+---
+
+## 🛡️ BITES Defense & Aerospace
+**AI & NLP Intern**
+
+- Worked on Turkish NLP datasets
+- Participated in preprocessing and model evaluation processes
+- Used mT5-based transformer models
+- Applied chunking and ROUGE evaluation techniques
+
+---
+
+# 🏆 Achievements
+
+- 🥉 **3rd Place — Lenovo AI Marathon Turkey**
+- 🏅 **Teknofest Healthcare AI Finalist (Top 7 in Turkey)**
+
+---
+
+# 📂 Featured Projects
+
+## 📱 YKSUP / LGSUP
+Student performance tracking & exam analysis mobile app.
+
+### Features
+- Study tracking
+- Trial exam analysis
+- Performance monitoring
+- Personalized planning
+
+**Tech Stack:**  
+`React Native` `TypeScript` `Supabase`
+
+🔗 https://github.com/Fikret-Arici/MetBil
+
+---
+
+## 📄 ResumeJet
+AI-powered global mobile CV builder.
+
+### Features
+- AI-assisted resume generation
+- Multiple professional templates
+- ATS-friendly structure
+- Fast resume creation
+
+**Tech Stack:**  
+`React Native` `TypeScript` `Supabase`
+
+🔗 https://github.com/Fikret-Arici/ResumeJet
+
+---
+
+## 🔔 Sipply
+Notification & reminder focused mobile application.
+
+### Features
+- Smart reminder systems
+- Push notifications
+- User engagement tracking
+
+**Tech Stack:**  
+`React Native` `TypeScript`
+
+🔗 https://github.com/Fikret-Arici/Sipply
+
+---
+
+## 🧠 Teknofest Healthcare AI
+AI-based stroke detection and classification project using medical imaging data.
+
+### Contributions
+- Data preprocessing
+- Dataset preparation
+- Model evaluation
+- Deep learning workflows
+
+**Tech Stack:**  
+`Python` `TensorFlow` `OpenCV` `NumPy` `Pandas`
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fikret-arici&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fikret-arici&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fikret-arici&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fikret-arici&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikret-arici&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tools & Technologies</h3>
-<p align="left">
+# 🛠️ Technologies & Tools
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
-  </a>
-  
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=csharp" alt="csharp" width="40" height="40"/>
-  </a>
+<p align="center">
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  </a>
-
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  </a>
-
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
-  </a>
-
-  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=wpf" alt="wpf" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/>
-  </a>
-
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/>
-  </a>
-
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/>
-  </a>
-
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
-  </a>
-
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/>
-  </a>
-
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
-  </a>
-
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=python,csharp,ts,react,dotnet,postgres,mysql,firebase,supabase,git,github,docker,linux,tensorflow,pytorch,opencv,vscode,visualstudio" />
 
 </p>
 
+---
 
+# 📚 Areas of Interest
+
+- Data Analytics
+- Data Management
+- Artificial Intelligence
+- NLP
+- Deep Learning
+- Mobile Development
+- Computer Vision
+- AI Product Development
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-- Email: `fikretarici35@gmail.com`
-- LinkedIn: [linkedin.com/in/fikret-arici]([https://linkedin.com/in/fikret-arici](https://www.linkedin.com/in/fikret-arici-a9a08b256/))
-- GitHub Issues or Discussions are welcome for collaboration inquiries.
+📧 **Email:**  
+`fikretarici35@gmail.com`
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/fikret-arici-a9a08b256/
+
+🌐 **Website:**  
+https://arcakademi.co
 
 ---
 
 <p align="center">
-  <strong>"Artificial intelligence is transforming the future — and I aim to contribute meaningfully to that change."</strong><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7f5af0&height=120&section=footer"/>
 </p>
