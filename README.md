@@ -1,190 +1,131 @@
-<h1 align="center">Fikret Arıcı</h1>
+<div align="center">
 
-<h3 align="center">
-Data & AI Enthusiast • Software Developer • Building Real-World Systems
-</h3>
+```
+███████╗██╗██╗  ██╗██████╗ ███████╗████████╗
+██╔════╝██║██║ ██╔╝██╔══██╗██╔════╝╚══██╔══╝
+█████╗  ██║█████╔╝ ██████╔╝█████╗     ██║   
+██╔══╝  ██║██╔═██╗ ██╔══██╗██╔══╝     ██║   
+██║     ██║██║  ██╗██║  ██║███████╗   ██║   
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fikret-arici&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
+# Fikret Arıcı
 
-<p align="center">
-  <a href="https://github.com/Fikret-Arici">
-    <img src="https://img.shields.io/github/followers/Fikret-Arici?label=Followers&style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fikret-arici-a9a08b256/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fikret%20Arıcı-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+**`Yazılım Geliştirici · Yapay Zekâ Araştırmacısı · Girişimci`**
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=fikret-arici&label=Profil%20Görüntülenme&color=0d1117&style=flat-square)](https://github.com/Fikret-Arici)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fikret-arici-a9a08b256/)
+[![Web](https://img.shields.io/badge/arcakademi.co-000000?style=flat-square&logo=vercel&logoColor=white)](https://arcakademi.co)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fikretarici35@gmail.com)
 
-# 🚀 About Me
-
-Hi! I'm **Fikret Arıcı**, a Computer Engineering student at **Gazi University**.
-
-I build software focused on:
-
-- 📊 **Data Analysis & Data-Driven Systems**
-- 🤖 **Artificial Intelligence & NLP**
-- 📱 **Mobile Applications**
-- 🖥️ **Desktop Applications**
-- 👁️ **Computer Vision**
-
-I enjoy transforming raw data into meaningful systems and building products that solve real-world problems.
-
-Currently, I’m especially interested in:
-
-- Data Management
-- AI-powered applications
-- User analytics & performance tracking
-- NLP systems
-- Computer Vision
-- Mobile product development
+</div>
 
 ---
 
-# 🧠 Experience Highlights
+## 🧠 Hakkımda
 
-## 🔬 Nanomanyetik Scientific Instruments
-**Software & R\&D Intern**
+Gazi Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yapay zekâ, görüntü işleme ve eğitim teknolojileri alanlarında aktif olarak proje geliştiriyor; savunma ve bilimsel sektörlerde staj deneyimi kazanıyorum. Aynı zamanda [Arc Akademi](https://arcakademi.co)'nin kurucusuyum.
 
-- Developed WPF and EmguCV based desktop applications
-- Worked on technical data processing and calibration systems
-- Contributed to Stage Controller & Image Analyzer projects
-- Built measurement-oriented software systems
-
----
-
-## 🛡️ BITES Defense & Aerospace
-**AI & NLP Intern**
-
-- Worked on Turkish NLP datasets
-- Participated in preprocessing and model evaluation processes
-- Used mT5-based transformer models
-- Applied chunking and ROUGE evaluation techniques
+- 🏆 **Lenovo AI Marathon** — Türkiye 3.'sü (2025)
+- 🎯 **Teknofest Sağlıkta Yapay Zekâ** — Türkiye Finalisti, 7.'lik (2025)
+- 🚀 Savunma sanayi ve bilimsel cihaz sektörlerinde aktif staj deneyimi
+- 🏫 Arc Akademi kurucusu — öğrenci koçluk ve deneme analiz platformu
 
 ---
 
-# 🏆 Achievements
+## 💼 Deneyim
 
-- 🥉 **3rd Place — Lenovo AI Marathon Turkey**
-- 🏅 **Teknofest Healthcare AI Finalist (Top 7 in Turkey)**
+**🔬 Ar-Ge & Görüntü İşleme Stajyeri** · *Nanomanyetik Bilimsel Cihazlar*
+> EmguCV/WPF tabanlı görüntü analiz araçları, piksel–mikron dönüşüm sistemleri, thresholding & contour detection algoritmaları · `C#` `WPF` `EmguCV` `OpenCV`
 
----
-
-# 📂 Featured Projects
-
-## 📱 YKSUP / LGSUP
-Student performance tracking & exam analysis mobile app.
-
-### Features
-- Study tracking
-- Trial exam analysis
-- Performance monitoring
-- Personalized planning
-
-**Tech Stack:**  
-`React Native` `TypeScript` `Supabase`
-
-🔗 https://github.com/Fikret-Arici/MetBil
+**🤖 Yapay Zekâ & NLP Stajyeri** · *BITES Savunma ve Havacılık*
+> mT5 tabanlı NLP modellerinde fine-tuning, MLSum-TR & XL-Sum-TR veri kümeleri, ROUGE değerlendirme · `Python` `TensorFlow` `HuggingFace`
 
 ---
 
-## 📄 ResumeJet
-AI-powered global mobile CV builder.
+## 🚀 Öne Çıkan Projeler
 
-### Features
-- AI-assisted resume generation
-- Multiple professional templates
-- ATS-friendly structure
-- Fast resume creation
-
-**Tech Stack:**  
-`React Native` `TypeScript` `Supabase`
-
-🔗 https://github.com/Fikret-Arici/ResumeJet
+| Proje | Açıklama | Teknolojiler |
+|-------|----------|--------------|
+| 🎓 [Arc Akademi](https://arcakademi.co) | Öğrenci koçluk & deneme analiz platformu *(Kurucu)* | React, Supabase |
+| 🧠 [AuraAI](https://github.com/Fikret-Arici) | Duygu analizi & kişisel profilleme — **Türkiye 3.'sü** | Python, NLP, React |
+| 🏥 [Teknofest – İnme Tespiti](https://github.com/Fikret-Arici) | BT/MR görüntülerinde yapay zekâ ile inme sınıflandırma | Python, TensorFlow, OpenCV |
+| 📱 [YKSUP/LGSUP](https://github.com/Fikret-Arici) | Mobil sınav hazırlık & çalışma takip uygulaması | React Native, TypeScript, Supabase |
+| 📄 [ResumeJet](https://github.com/Fikret-Arici) | AI destekli mobil CV oluşturma uygulaması | React Native, TypeScript, Supabase |
+| 🏠 [AI Decor Dream](https://github.com/Fikret-Arici) | Yapay zekâ ile oda dekorasyon simülasyonu | Python, OpenCV |
+| 📚 [Dolpi](https://github.com/Fikret-Arici) | Quiz tabanlı İngilizce kelime öğrenme | React, Supabase |
 
 ---
 
-## 🔔 Sipply
-Notification & reminder focused mobile application.
+## 🛠️ Teknoloji Yığını
 
-### Features
-- Smart reminder systems
-- Push notifications
-- User engagement tracking
+<div align="center">
 
-**Tech Stack:**  
-`React Native` `TypeScript`
+**Yapay Zekâ & Makine Öğrenmesi**
 
-🔗 https://github.com/Fikret-Arici/Sipply
+![Python](https://skillicons.dev/icons?i=python)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
 
----
+**Mobil & Web Geliştirme**
 
-## 🧠 Teknofest Healthcare AI
-AI-based stroke detection and classification project using medical imaging data.
+![React](https://skillicons.dev/icons?i=react)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Redux](https://skillicons.dev/icons?i=redux)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
-### Contributions
-- Data preprocessing
-- Dataset preparation
-- Model evaluation
-- Deep learning workflows
+**Masaüstü & Görüntü İşleme**
 
-**Tech Stack:**  
-`Python` `TensorFlow` `OpenCV` `NumPy` `Pandas`
+![C#](https://skillicons.dev/icons?i=csharp)
+![.NET](https://skillicons.dev/icons?i=dotnet)
 
----
+**Veritabanı & Altyapı**
 
-# 📊 GitHub Analytics
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Linux](https://skillicons.dev/icons?i=linux)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fikret-arici&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fikret-arici&theme=tokyonight"/>
-</p>
+**Araçlar**
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikret-arici&layout=compact&theme=tokyonight"/>
-</p>
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
 
----
-
-# 🛠️ Technologies & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,csharp,ts,react,dotnet,postgres,mysql,firebase,supabase,git,github,docker,linux,tensorflow,pytorch,opencv,vscode,visualstudio" />
-
-</p>
+</div>
 
 ---
 
-# 📚 Areas of Interest
+## 📊 GitHub İstatistikleri
 
-- Data Analytics
-- Data Management
-- Artificial Intelligence
-- NLP
-- Deep Learning
-- Mobile Development
-- Computer Vision
-- AI Product Development
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fikret-arici&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fikret-arici&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</div>
 
----
-
-# 📫 Contact
-
-📧 **Email:**  
-`fikretarici35@gmail.com`
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/fikret-arici-a9a08b256/
-
-🌐 **Website:**  
-https://arcakademi.co
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikret-arici&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7f5af0&height=120&section=footer"/>
-</p>
+## 🏆 Ödüller
+
+```
+🥉  Lenovo AI Marathon          →  Türkiye 3.'sü     (2025)  │  AuraAI Projesi
+🎯  Teknofest Sağlıkta YZ       →  Türkiye 7.'si     (2025)  │  İnme Tespiti & Sınıflandırma
+```
+
+---
+
+<div align="center">
+
+*"Yapay zekâ geleceği dönüştürüyor — ben de bu dönüşüme anlamlı katkılar sunmayı hedefliyorum."*
+
+**Fikret Arıcı** · Ankara, Türkiye
+
+</div>
